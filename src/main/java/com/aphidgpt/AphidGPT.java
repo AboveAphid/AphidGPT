@@ -31,7 +31,7 @@ public class AphidGPT implements ModInitializer {
 	// TODO: Add a way to change this in game
 	// COMPLETED: API_KEY
 	// OPEN AI INFO:
-	public static String API_KEY =                                                                       "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"; // Replace with your actual API key
+	public static String API_KEY = "/setapikey API KEY"; // Replace with your actual API key
 	public static String END_POINT = "https://api.openai.com/v1/chat/completions";
 	public static String MODEL = "gpt-3.5-turbo";
 	public static Integer RETRY_AMOUNT = 2;
