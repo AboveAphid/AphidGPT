@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "aphidgpt:block/steel_block"
+    }
+  }
+}

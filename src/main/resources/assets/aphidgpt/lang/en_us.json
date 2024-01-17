@@ -1,0 +1,10 @@
+{
+  "item.aphidgpt.mic": "Microphone",
+  "item.aphidgpt.steel_ingot": "Steel Bar",
+  "item.aphidgpt.unrefined_steel": "Unrefined Steel",
+
+  "itemgroup.aphidgpt": "AphidGPT",
+
+  "block.aphidgpt.power_block": "Receptor",
+  "block.aphidgpt.steel_block": "Steel Block"
+}

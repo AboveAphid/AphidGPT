@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.aphidgpt.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "ChatScreenMixin"
+  ]
+}
