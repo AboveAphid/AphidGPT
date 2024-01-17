@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "": {
-      "model": "aphidgpt:block/power_block"
-    }
-  }
-}
