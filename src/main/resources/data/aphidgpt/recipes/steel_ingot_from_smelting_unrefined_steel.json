@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 240,
+  "experience": 0.7,
+  "group": "steel_ingot",
+  "ingredient": {
+    "item": "aphidgpt:unrefined_steel"
+  },
+  "result": "aphidgpt:steel_ingot"
+}

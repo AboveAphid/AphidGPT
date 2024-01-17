@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 110,
+  "experience": 0.7,
+  "group": "steel_ingot",
+  "ingredient": {
+    "item": "aphidgpt:unrefined_steel"
+  },
+  "result": "aphidgpt:steel_ingot"
+}

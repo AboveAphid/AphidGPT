@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "aphidgpt:steel_ingot"
+    },
+    "#": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "item": "aphidgpt:power_block"
+  }
+}
