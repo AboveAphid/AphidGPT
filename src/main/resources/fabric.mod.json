@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "aphidgpt",
+	"version": "${version}",
+	"name": "AphidGPT",
+	"description": "Bring AI to minecraft! :D",
+	"authors": [
+		"A_Aphid"
+	],
+	"contact": {
+		"homepage": "https://www.youtube.com/@A_Aphid",
+		"sources": "https://github.com/AboveAphid0/AphidGPT"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/aphidgpt/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.aphidgpt.AphidGPT"
+		],
+		"fabric-datagen": [
+			"com.aphidgpt.AphidGPTDataGenerator"
+		]
+	},
+	"mixins": [
+		"aphidgpt.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.3",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
